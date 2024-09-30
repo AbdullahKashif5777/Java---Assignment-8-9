@@ -1,0 +1,36 @@
+Course Name: Search Student by Name
+Course Code: Home
+Sections: aa1, monday, null
+
+Course Name: Search Student by Name
+Course Code: Home
+Sections: W2, Tuesday - Friday, 2
+
+Course Name: Search Student by Name
+Course Code: Home
+Sections: w1, monday, 3pm to 4pm
+
+Course Name: programing
+Course Code: a21
+Sections: w2, monday, null
+
+Course Name: oop
+Course Code: olp1
+Sections: w1, w2
+
+Course Name: programing
+Course Code: cl123
+Sections: w1, w2
+
+Course Name: pro
+Course Code: 123
+Sections: w1, w3
+
+Course Name: aa
+Course Code: a
+Sections: a1
+
+Course Name: a
+Course Code: aw1
+Sections: 11
+

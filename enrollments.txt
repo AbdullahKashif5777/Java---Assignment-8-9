@@ -1,0 +1,10 @@
+Student: Junaid Sultan
+Course: Object Oriented Programming
+Section: W2
+Status: Active
+
+Student: Junaid Sultan
+Course: Programming Fundamental
+Section: W5
+Status: Active
+
